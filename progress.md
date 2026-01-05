@@ -3,6 +3,10 @@
 
 **Jan 5, 2026**
 - Revised CSS box model and layout basics
-- Practiced grid and flexbox sections
-- Built static portfolio sections
-- Deployment runs on GCP for iminhas.com
+ <!-- inline css -->
+- <!-- internal css -->
+<!-- External CSS -->
+
+### CSS Lab Results
+![CSS Box Model](assets/screenshots/box-model.png)
+![CSS Grid Cards](assets/screenshots/grid-cards.png)
