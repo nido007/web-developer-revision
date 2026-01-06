@@ -10,3 +10,6 @@
 ### CSS Lab Results
 ![CSS Box Model](assets/screenshots/box-model.png)
 ![CSS Grid Cards](assets/screenshots/grid-cards.png)
+
+**Jan 6, 2025**
+-Revised Flex Box 
